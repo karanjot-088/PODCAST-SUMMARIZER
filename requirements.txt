@@ -1,0 +1,12 @@
+faster_whisper==1.1.1
+langchain-core==0.3.63
+langchain-groq==0.3.2
+langchain==0.3.25
+langchain-community==0.3.24
+torch==2.0.0
+huggingface-hub==0.12.0
+rouge-score==0.1.2
+numpy
+matplotlib
+json5
+ffmpeg
